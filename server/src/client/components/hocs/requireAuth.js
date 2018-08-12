@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { connect } from 'redux';
+import { connect } from 'react-redux';
 import { Redirect } from 'react-router-dom';
 
 export default ChildComponent => {
